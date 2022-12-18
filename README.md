@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kenwaysharma
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Web Projects based on MERN 
 - 📫 How to reach me: reach me at - kenwaysharma@gmail.com
 

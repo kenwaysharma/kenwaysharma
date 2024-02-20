@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on Web Projects based on MERN 
 - 📫 How to reach me: reach me at - kenwaysharma@gmail.com
+- 🚀 [Visit my website](https://varunsharma.org/) 
 
 ## Latest Projects
  - https://github.com/kenwaysharma/figma-to-react-design-conversion-demo
@@ -13,4 +14,3 @@ kenwaysharma/kenwaysharma is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[Visit my website](https://varunsharma.org/) 🚀
